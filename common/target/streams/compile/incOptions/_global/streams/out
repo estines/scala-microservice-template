@@ -1,0 +1,20 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\estin\IdeaProjects\scala3-template\common\target\scala-3.3.3\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\estin\IdeaProjects\scala3-template\common\target\scala-3.3.3\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	JdbcConnector$.class
+[debug] 	LoggerUtils.class
+[debug] 	JdbcConnector.class
+[debug] 	JsonUtils$EnhancedJson.class
+[debug] 	JsonUtils.class
+[debug] 	JsonUtils$.class
+[debug] 	JdbcConnector$.tasty
+[debug] 	LoggerUtils.tasty
+[debug] 	JdbcConnector.tasty
+[debug] 	JsonUtils$EnhancedJson.tasty
+[debug] 	JsonUtils.tasty
+[debug] 	JsonUtils$.tasty
+[debug] Removing the temporary directory used for backing up class files: C:\Users\estin\IdeaProjects\scala3-template\common\target\scala-3.3.3\classes.bak

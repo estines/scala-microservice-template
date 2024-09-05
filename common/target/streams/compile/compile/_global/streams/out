@@ -1,0 +1,7 @@
+[warn] -- Warning: C:\Users\estin\IdeaProjects\scala3-template\common\src\main\scala\com\nop\common\utils\ParamsUtils.scala:1:23 
+[warn] 1 |package com.nop.common.utils
+[warn]   |^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[warn]   |No class, trait or object is defined in the compilation unit.
+[warn]   |The incremental compiler cannot record the dependency information in such case.
+[warn]   |Some errors like unused import referring to a non-existent class might not be reported.
+[warn] one warning found

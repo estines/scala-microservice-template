@@ -1,0 +1,14 @@
+[debug] > Exec(common/compile, None, None)
+[debug] Evaluating tasks: common / Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 4 Scala sources to C:\Users\estin\IdeaProjects\scala3-template\common\target\scala-3.3.3\classes ...
+[warn] -- Warning: C:\Users\estin\IdeaProjects\scala3-template\common\src\main\scala\com\nop\common\utils\ParamsUtils.scala:1:23 
+[warn] 1 |package com.nop.common.utils
+[warn]   |^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[warn]   |No class, trait or object is defined in the compilation unit.
+[warn]   |The incremental compiler cannot record the dependency information in such case.
+[warn]   |Some errors like unused import referring to a non-existent class might not be reported.
+[warn] one warning found
+[info] done compiling
+[success] Total time: 3 s, completed 6 ก.ย. 2567, 1:09:35
+[debug] > Exec(idea-shell, None, None)

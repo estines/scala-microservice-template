@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="allot,allotment_service,allotment_service_756,allotment_service_8627,commons,execution,root,root.allotment-ipo-service,root.allotmentService,root.allotment_service,root.common" />
+  </component>
+</project>

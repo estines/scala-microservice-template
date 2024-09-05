@@ -1,0 +1,5 @@
+[debug] > Exec(compile/common, None, None)
+[error] Not a valid key: common (similar: commands, commandData)
+[error] compile/common
+[error]               ^
+[debug] > Exec(idea-shell, None, None)
